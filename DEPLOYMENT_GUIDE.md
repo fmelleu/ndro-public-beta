@@ -9,6 +9,20 @@ This guide covers the first public beta. The deployed Streamlit application is
 read-only with respect to scientific data. Community audit submissions are sent
 to the configured form processor; they never modify the public snapshot.
 
+## Public deployment record
+
+- Status: accepted on 2026-09-10.
+- Public URL: <https://synapsight-ndro.streamlit.app/>.
+- Published application commit: `565bf7b503dae98e894a2f254b7b5245ef7795dc`.
+- Public snapshot: `ndro-mvp-v0.1.2-20260823`.
+- Desktop page smoke test: all eleven public pages passed.
+- Mobile acceptance: 390 x 844 with no document-level horizontal overflow;
+  both Overview charts rendered and the sidebar remained collapsed by default.
+- PubMed links: confirmed by Fernando Melleu against the expected records.
+- Audit route: a non-sensitive submission reached the NDRO Proton Mail inbox
+  through Formspree. The test submission was subsequently deleted from both
+  operational services.
+
 ## 1. Build the public package
 
 From the active Streamlit source directory, run:
@@ -64,6 +78,10 @@ Verify the following before announcing the beta:
 - a non-sensitive audit test reaches the NDRO mailbox with the expected fields;
 - the test submission is deleted from Formspree and Proton Mail after the
   closing confirmation, leaving no reporter identity in NDRO records.
+
+The first public-beta deployment completed every item above on 2026-09-10.
+Future deployments must repeat the checklist; this acceptance record does not
+authorize reuse of the result for a new snapshot or application release.
 
 ## 5. Power BI pairing
 
