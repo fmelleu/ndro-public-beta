@@ -1,0 +1,6 @@
+snapshot_version,cutoff_date,association_id,disease_code,pmid,subject_type,subject_id,source_field,evidence_text,evidence_start,evidence_end,confidence
+synthetic-ui-fixture-v0.1,2026-08-22,AD-R-90000001,AD,90000001,study_context,human,abstract,We enrolled 120 adults with Alzheimer disease,0,45,high
+synthetic-ui-fixture-v0.1,2026-08-22,AD-R-90000001,AD,90000001,population,population-1,abstract,120 adults with Alzheimer disease,12,45,high
+synthetic-ui-fixture-v0.1,2026-08-22,ALS-R-90000002,ALS,90000002,study_context,in_vitro,abstract,Patient-derived cells were used,0,31,high
+synthetic-ui-fixture-v0.1,2026-08-22,ALS-R-90000002,ALS,90000002,study_objective,mechanism,abstract,a shared stress pathway across ALS and another motor-neuron disorder,47,113,medium
+

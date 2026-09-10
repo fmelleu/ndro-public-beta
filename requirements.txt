@@ -1,0 +1,6 @@
+# Exact direct runtime dependencies validated for the NDRO Streamlit public
+# beta. requirements-lock.txt records the complete tested dependency closure.
+# Upgrade deliberately and re-run TEST_REPORT.md's full validation sequence.
+streamlit==1.45.1
+pandas==2.2.3
+altair==5.5.0

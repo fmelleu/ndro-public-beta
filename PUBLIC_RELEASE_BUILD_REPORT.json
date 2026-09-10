@@ -1,0 +1,23 @@
+{
+  "release_name": "NDRO_Streamlit_Public_Beta_v0.2.0",
+  "application_version": "v0.2.0",
+  "public_snapshot": "ndro-mvp-v0.1.2-20260823",
+  "snapshot_contract": "public-snapshot-v0.1",
+  "built_at_utc": "2026-09-09T15:14:13.830898+00:00",
+  "allowlisted_source_files": 81,
+  "privacy_and_secret_scan": {
+    "passed": true,
+    "scanned_text_files": 77,
+    "recognized_email_addresses": [
+      "jane.doe+lab@example.org",
+      "jane.doe+ndro@example.org",
+      "jane@example.org",
+      "ndro.project@proton.me"
+    ],
+    "unexpected_email_addresses": [],
+    "errors": []
+  },
+  "manifest": {
+    "file": "PUBLIC_RELEASE_FILE_MANIFEST.csv"
+  }
+}

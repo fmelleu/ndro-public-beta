@@ -1,0 +1,41 @@
+# Complete runtime dependency closure validated on Python 3.12.12 / Windows.
+# Generated from installed package metadata on 2026-08-31. Do not edit a single
+# transitive pin in isolation; regenerate and run the full validation sequence.
+altair==5.5.0
+attrs==24.3.0
+blinker==1.9.0
+cachetools==5.5.1
+certifi==2026.4.22
+charset-normalizer==3.3.2
+click==8.4.2
+colorama==0.4.6
+gitdb==4.0.7
+gitpython==3.1.43
+idna==3.7
+jinja2==3.1.6
+jsonschema==4.23.0
+jsonschema-specifications==2023.7.1
+markupsafe==3.0.2
+narwhals==1.31.0
+numpy==1.26.4
+packaging==24.2
+pandas==2.2.3
+pillow==11.3.0
+protobuf==5.29.3
+pyarrow==25.0.0
+pydeck==0.9.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+referencing==0.30.2
+requests==2.32.3
+rpds-py==0.22.3
+six==1.17.0
+smmap==4.0.0
+streamlit==1.45.1
+tenacity==9.0.0
+toml==0.10.2
+tornado==6.5
+typing_extensions==4.12.2
+tzdata==2025.2
+urllib3==2.3.0
+watchdog==4.0.2

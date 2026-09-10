@@ -1,0 +1,19 @@
+{
+  "contract_version": "public-snapshot-v0.1",
+  "snapshot_version": "synthetic-ui-fixture-v0.1",
+  "cutoff_date": "2026-08-22",
+  "generated_at": "2026-08-22T12:00:00-03:00",
+  "source": "Synthetic UI fixture; never present these records as real NDRO or PubMed data",
+  "status_indicator": "amber",
+  "counts": {
+    "article_associations": 5,
+    "distinct_pmids": 5,
+    "study_facts": 2,
+    "evidence_spans": 4
+  },
+  "scientific_boundary": "Public PubMed metadata and adequate English scientific abstracts; full text is out of scope.",
+  "semantic_disclosure": "Semantic charts use only completed semantic records and must display their denominator and coverage.",
+  "validation_passed": true,
+  "synthetic_fixture": true
+}
+

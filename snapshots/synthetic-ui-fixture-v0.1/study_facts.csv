@@ -1,0 +1,4 @@
+snapshot_version,cutoff_date,association_id,disease_code,corpus_status,pmid,publication_year,publication_form,population_description,sample_size_total,overall_treatment_signal,extraction_confidence,design_codes,objective_codes,context_codes,methods,models,countries
+synthetic-ui-fixture-v0.1,2026-08-22,AD-R-90000001,AD,core,90000001,2024,original_research,Adults with Alzheimer disease,120,not_applicable,high,observational_cohort,biomarker_association,human,longitudinal biomarker measurement,,USA — United States
+synthetic-ui-fixture-v0.1,2026-08-22,ALS-R-90000002,ALS,separate,90000002,2023,original_research,Patient-derived cellular models,48,not_applicable,medium,experimental_laboratory,mechanism,in_vitro,stress-pathway assay,patient-derived cell model,GBR — United Kingdom
+

@@ -1,0 +1,6 @@
+snapshot_version,cutoff_date,disease_code,candidate_associations,eligible_associations,semantically_complete_associations,semantic_coverage_percent,core_associations,separate_associations,excluded_associations,pending_final_classification,last_updated_at
+ndro-mvp-v0.1.2-20260823,2026-08-23,AD,85,34,29,85.29,23,6,51,5,2026-08-22 12:41:24.240484-03
+ndro-mvp-v0.1.2-20260823,2026-08-23,ALS,85,43,39,90.70,37,2,42,4,2026-08-22 12:39:55.173011-03
+ndro-mvp-v0.1.2-20260823,2026-08-23,FTD,85,35,30,85.71,28,2,50,5,2026-08-22 12:39:55.173011-03
+ndro-mvp-v0.1.2-20260823,2026-08-23,HD,85,34,32,94.12,29,3,51,2,2026-08-22 12:39:55.173011-03
+ndro-mvp-v0.1.2-20260823,2026-08-23,PD,85,40,36,90.00,34,2,45,4,2026-08-22 12:39:55.173011-03

@@ -1,0 +1,28 @@
+{
+  "contract_version": "public-snapshot-v0.1",
+  "snapshot_version": "ndro-mvp-v0.1.2-20260823",
+  "cutoff_date": "2026-08-23",
+  "generated_at": "2026-09-04T23:41:19.787479+00:00",
+  "source": "NDRO local PostgreSQL authoritative database",
+  "status_indicator": "amber",
+  "counts": {
+    "article_associations": 425,
+    "distinct_pmids": 423,
+    "study_facts": 166,
+    "evidence_spans": 1380
+  },
+  "scientific_boundary": "Public PubMed metadata and adequate English scientific abstracts; full text is out of scope.",
+  "semantic_disclosure": "Semantic charts use only completed semantic records and must display their denominator and coverage.",
+  "validation_passed": true,
+  "source_snapshot_version": "ndro-mvp-v0.1.1-20260823",
+  "public_export_transformations": [
+    {
+      "type": "email_redaction",
+      "replacement": "[email redacted from public snapshot]",
+      "occurrences": 28,
+      "files_changed": [
+        "evidence_spans.csv"
+      ]
+    }
+  ]
+}

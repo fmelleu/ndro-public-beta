@@ -1,0 +1,5 @@
+# Additional dependencies needed only to run the automated test suite in
+# tests/. Not required to run the app itself.
+-r requirements.txt
+pytest==8.3.4
+pyflakes==3.2.0

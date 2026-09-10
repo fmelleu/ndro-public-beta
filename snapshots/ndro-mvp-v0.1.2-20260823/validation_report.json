@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": {
+    "required_files_present": 0,
+    "missing_required_article_columns": 0,
+    "duplicate_association_ids": 0,
+    "orphan_study_facts": 0,
+    "orphan_evidence_spans": 0,
+    "invalid_analytical_fact_layers": 0,
+    "mojibake_country_labels": 0
+  },
+  "generated_at": "2026-08-23T20:58:12.5989225-03:00"
+}
