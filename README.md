@@ -1,5 +1,9 @@
 # NDRO Streamlit public beta candidate v0.2.0
 
+[Open the live scientific application](https://synapsight-ndro.streamlit.app/)
+| [Review the Power BI portfolio](POWER_BI_PORTFOLIO.md)
+| [Download the inspectable Power BI package](downloads/NDRO_PowerBI_Portfolio_v0.2.1.zip)
+
 A local Streamlit beta candidate for the NDRO (Neurodegenerative Disease
 Research Observatory). It reads local, versioned
 CSV/JSON snapshot files described in
